@@ -41,7 +41,7 @@ This project allows users to create and manage bank accounts with features like 
 Bank-Management-System/
 │
 ├── app.py
-├── bank.py
+├── bank_management.py
 ├── bankData.json
 ├── requirements.txt
 └── README.md
@@ -54,7 +54,7 @@ Bank-Management-System/
 ## 1️. Clone Repository
 
 ```bash
-git clone <your-repository-link>
+https://github.com/aman12-10-12/bank_management_system.git
 ```
 
 ---
@@ -62,7 +62,7 @@ git clone <your-repository-link>
 ## 2️. Open Project Folder
 
 ```bash
-cd Bank-Management-System
+cd bank_management_system
 ```
 
 ---
